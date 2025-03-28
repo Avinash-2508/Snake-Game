@@ -4,7 +4,7 @@ from food import Food
 from snake import Snake
 from scoar_board import Scoreboard
 my_screen = Screen()
-my_screen.setup(width = 600,height = 600)
+my_screen.setup(width = 600,height = 00)
 my_screen.bgcolor("black")
 my_screen.title("My sanke game")
 my_screen.tracer(0)
