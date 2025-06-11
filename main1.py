@@ -7,7 +7,7 @@ my_screen = Screen()
 my_screen.setup(width = 600,height = 600)
 my_screen.bgcolor("black")
 my_screen.title("My sanke game")
-my_screen.tracer(0)
+my_screen.tracer()
 
 snake = Snake()
 food = Food()
